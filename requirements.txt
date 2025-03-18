@@ -1,4 +1,1 @@
-----------Modules-------------
-
-tkinter module
-pymysql module
+pymysql
